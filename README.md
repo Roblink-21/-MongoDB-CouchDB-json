@@ -55,7 +55,7 @@
 
 ![script](https://user-images.githubusercontent.com/58041699/126104624-e60c8f84-76a7-453a-b7c8-884c098ccef6.JPG)
 
-8.-
+8.- Funcionamiento correcto del scrip, se muestra los documentos que se van extrayendo de MongoDB
 
 ![resul](https://user-images.githubusercontent.com/58041699/126104784-7790158d-fcc1-464c-8b87-43966ed49320.JPG)
 
