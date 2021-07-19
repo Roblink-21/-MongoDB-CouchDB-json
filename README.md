@@ -59,7 +59,7 @@
 
 ![resul](https://user-images.githubusercontent.com/58041699/126104784-7790158d-fcc1-464c-8b87-43966ed49320.JPG)
 
-9.-
+9.- Datos de MongoDB en CouchDB
 
 ![bd](https://user-images.githubusercontent.com/58041699/126104888-d1da2a49-640e-431f-b7a4-f34849bec915.JPG)
 
