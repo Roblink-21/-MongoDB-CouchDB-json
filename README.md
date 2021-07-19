@@ -51,7 +51,7 @@
 
 ![f8523d2b-d6ea-4f85-92ed-3951178a0280](https://user-images.githubusercontent.com/58041699/126104525-e7517a7f-4633-4d10-9898-8f30614b8db6.jpg)
 
-7.-
+7.- Modificación de la cadena de conexión con las respectivas credenciales
 
 ![script](https://user-images.githubusercontent.com/58041699/126104624-e60c8f84-76a7-453a-b7c8-884c098ccef6.JPG)
 
