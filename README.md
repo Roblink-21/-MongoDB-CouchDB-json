@@ -44,7 +44,7 @@
 
 # Pasos de la conexión de MongoDB con CouchDB:
 
-1.- Asegurarse de tener instalado el driver PyMongo caso contraria instalarlo desde la terminal
+1.- Asegurarse de tener instalado el driver PyMongo caso contrario instalarlo desde la terminal
 
 ![install](https://user-images.githubusercontent.com/58127103/126202577-4eeb19bf-3ece-40c4-8509-bd169eea5c39.png)
 
