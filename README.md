@@ -43,11 +43,11 @@
 ![develop](https://user-images.githubusercontent.com/58041699/126105194-b0a4cc90-4d83-4d99-ac29-df8a9bf03d04.JPG)
 
 
-5.-
+5.- 
 
 ![8a00c568-1dd0-4fb4-b21e-1f1189d36bf3](https://user-images.githubusercontent.com/58041699/126104495-c4a0fb79-8562-4352-bd51-ad7b8daa44f1.jpg)
 
-6.-
+6.- Selección del lenguaje con su respectiva versión
 
 ![f8523d2b-d6ea-4f85-92ed-3951178a0280](https://user-images.githubusercontent.com/58041699/126104525-e7517a7f-4633-4d10-9898-8f30614b8db6.jpg)
 
