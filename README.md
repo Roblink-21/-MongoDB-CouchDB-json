@@ -38,7 +38,7 @@
 
 ![Captura de pantalla 2021-07-18 234257](https://user-images.githubusercontent.com/58041699/126104207-885aeb83-8d59-4ce4-a7d9-42f56aff505b.png)
 
-4.- Importación en una colección de un data set de Kaggle realizada por cada integrante
+4.- Importación en una colección de varios data set de Kaggle realizada por cada integrante
 
 ![develop](https://user-images.githubusercontent.com/58041699/126105194-b0a4cc90-4d83-4d99-ac29-df8a9bf03d04.JPG)
 
