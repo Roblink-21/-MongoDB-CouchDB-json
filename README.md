@@ -4,7 +4,7 @@
 -
 -
 -
--
+- Luis Jácome
 - Sebastián Valencia
 - Roberth Pincha
 
