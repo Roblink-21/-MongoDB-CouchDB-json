@@ -44,23 +44,27 @@
 
 # Pasos de la conexión de MongoDB con CouchDB:
 
-1.- Selección del método de conexión en este caso "Connect to application" y obtención de la cadena de conexión
+1.- Asegurarse de tener instalado el driver PyMongo caso contraria instalarlo desde la terminal
+
+![install](https://user-images.githubusercontent.com/58127103/126202577-4eeb19bf-3ece-40c4-8509-bd169eea5c39.png)
+
+2.- Selección del método de conexión en este caso "Connect to application" y obtención de la cadena de conexión
 
 ![8a00c568-1dd0-4fb4-b21e-1f1189d36bf3](https://user-images.githubusercontent.com/58041699/126104495-c4a0fb79-8562-4352-bd51-ad7b8daa44f1.jpg)
 
-2.- Selección del lenguaje con su respectiva versión
+3.- Selección del lenguaje con su respectiva versión
 
 ![f8523d2b-d6ea-4f85-92ed-3951178a0280](https://user-images.githubusercontent.com/58041699/126104525-e7517a7f-4633-4d10-9898-8f30614b8db6.jpg)
 
-3.- Modificación de la cadena de conexión con las respectivas credenciales
+4.- Modificación de la cadena de conexión con las respectivas credenciales
 
 ![script](https://user-images.githubusercontent.com/58041699/126104624-e60c8f84-76a7-453a-b7c8-884c098ccef6.JPG)
 
-4.- Funcionamiento correcto del scrip, se muestra los documentos que se van extrayendo de MongoDB
+5.- Funcionamiento correcto del scrip, se muestra los documentos que se van extrayendo de MongoDB
 
 ![resul](https://user-images.githubusercontent.com/58041699/126104784-7790158d-fcc1-464c-8b87-43966ed49320.JPG)
 
-5.- Datos de MongoDB en CouchDB
+6.- Datos de MongoDB en CouchDB
 
 ![bd](https://user-images.githubusercontent.com/58041699/126104888-d1da2a49-640e-431f-b7a4-f34849bec915.JPG)
 
