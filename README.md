@@ -16,7 +16,7 @@
 
 3.- Crear un readme en github indicando los pasos(script) y los resultados obtenidos(capturas).
 
-# Resolucion (Describcion Paso a Paso)
+# Resolución (Descripción Paso a Paso)
 
 
 
