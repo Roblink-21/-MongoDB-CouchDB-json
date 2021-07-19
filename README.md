@@ -42,7 +42,7 @@
 
 ![develop](https://user-images.githubusercontent.com/58041699/126105194-b0a4cc90-4d83-4d99-ac29-df8a9bf03d04.JPG)
 
-# Pasos conexión de MongoDB con CouchDB:
+# Pasos de la conexión de MongoDB con CouchDB:
 
 1.- Selección del método de conexión en este caso "Connect to application" y obtención de la cadena de conexión
 
