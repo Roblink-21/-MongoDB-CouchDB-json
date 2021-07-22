@@ -3,7 +3,7 @@
 # Integrantes
 -
 -
--
+- Miguel Cuenca
 - Luis Jácome
 - Sebastián Valencia
 - Roberth Pincha
