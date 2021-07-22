@@ -2,7 +2,7 @@
 
 # Integrantes
 -
--
+- Carlos Quel
 - Miguel Cuenca
 - Luis Jácome
 - Sebastián Valencia
